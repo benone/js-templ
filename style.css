@@ -1,0 +1,21 @@
+#editor_base {
+  border:1px solid #00FF00;
+}
+#dre_menu {
+  
+  width:402px;
+  border:1px solid;
+}
+
+#dre_menu li {
+  float:left;
+  width:200px;
+}
+
+#dre_menu li.active{
+  border:1px solid #0000FF;
+}
+
+.clear {
+  clear:both;
+}
